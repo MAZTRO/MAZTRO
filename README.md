@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center" style="font-size: 18px; color: #777"><b>Hi I'm Jonatan</b></p>
+<p align="center" style="font-size: 12px; color: #777">
+I'm a full stack software engineer who learns quickly and adapts to new day-to-day technologies, I really like the Front End, this has allowed me to have experience as a good client-side developer, but also with great knowledge of the Backend to face greater challenges.
+</p>
+<p align="center" style="font-size: 16px; color: #777"><b>I'm currently learning:</b></p>
+<p align="center"><img src="./NodeReact.png" width="70%"></p>
 
 <!--
 **MAZTRO/MAZTRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
