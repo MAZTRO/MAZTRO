@@ -9,13 +9,23 @@ I'm a full stack software engineer who learns quickly and adapts to new day-to-d
 </p>
 <h3 align="center" style="font-size: 30px; color: #777">My current skills:</h3>
 <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" height="30" width="30" alt="Python">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" height="30" width="30" alt="Django">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="30" width="30" alt="C">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="30" width="30" alt="JavaScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="30" width="30" alt="CSS3">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" height="30" width="30" alt="HTML5">
-    ... among others
 </p>
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" height="30" width="30" alt="Django">
+</p>
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" height="30" width="30" alt="Python">
+</p>
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" height="30" width="30" alt="HTML5">
+</p>
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="30" width="30" alt="CSS3">
+</p>
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="30" width="30" alt="JavaScript">
+</p>
+<p align="center">... among others</p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MAZTRO" alt="Jonatan Mazo"/></p>
