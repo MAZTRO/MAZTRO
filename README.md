@@ -1,6 +1,8 @@
 <h1 align="center" style="color: #AAA;">Hi :wave:, I'm Jonatan</h1>
 <p align="center" style="font-size: 16px; color: #777">
-I'm a full stack software engineer who learns quickly and adapts to new day-to-day technologies, I really like the Front End, this has allowed me to have experience as a good client-side developer, but also with great knowledge of the Backend to face greater challenges.
+Full Stack Engineer focused in FrontEnd development with experience in both sides of a Web App, with all knowledge in BackEnd with Python and Django and also great experience with JavaScript and it frameworks like Vue and React.
+
+As a 3D world enthusiast, he focuses on designing and optimizing his work with discipline and love to change the user experience for the better, even with VR / AR.
 </p>
 <h3 align="center" style="font-size: 30px; color: #777">I'm currently learning:</h3>
 <p align="center">
