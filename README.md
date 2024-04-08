@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #AAA;">Hi :wave:, I'm Jonatan</h1>
+<h1 align="center" style="color: #AAA;">Hi :wave:, I'm Jonatan (Jon) Mazo</h1>
 <p align="center" style="font-size: 16px; color: #777">
 Full Stack Engineer focused in FrontEnd development with experience in both sides of a Web App, with all knowledge in BackEnd with Python and Django and also great experience with JavaScript and it frameworks like Vue and React.
 
