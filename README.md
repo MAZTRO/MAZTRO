@@ -31,3 +31,5 @@ As a 3D world enthusiast, he focuses on designing and optimizing his work with d
 <p align="center">... among others</p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MAZTRO" alt="Jonatan Mazo"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maztro&show_icons=true&theme=dark&title_color=c9c9c9&text_color=a8a8a8&locale=en&layout=compact" alt="maztro" /></p>
