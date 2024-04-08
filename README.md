@@ -1,15 +1,32 @@
-<h1 align="center" style="color: #AAA;">Hi :wave:, I'm Jonatan (Jon) Mazo</h1>
-<p align="center" style="font-size: 16px; color: #777">
-Full Stack Engineer focused in FrontEnd development with experience in both sides of a Web App, with all knowledge in BackEnd with Python and Django and also great experience with JavaScript and it frameworks like Vue and React.
+<h1 align="center" style="color: #CCC; font-size: 32px;">Hi, I'm Jonatan Mazo :wave:</h1>
 
-As a 3D world enthusiast, he focuses on designing and optimizing his work with discipline and love to change the user experience for the better, even with VR / AR.
+<p align="center" style="font-size: 16px; color: #999">
+    Frontend Developer with expertise in building performant UIs using React, Next.js, and Vanilla CSS. Experienced in data visualization and collaboration with backend teams to manage large datasets for user activity measurement. Passionate about creating unique 3D UI elements (personal projects). (Active lifestyle: cycling, drumming)
 </p>
-<h3 align="center" style="font-size: 30px; color: #777">I'm currently learning:</h3>
+
+----------
+
+<h3 style="font-size: 24px; color: #BBB">My current skills:</h3>
+
+<p style="display: flex; flex-flow: column; justify-content:center; width: max-content;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="50" width="50" alt="React.js" style="filter: grayscale(100%); margin: 10px; border-radius: 50%; object-fit: contain; height: 50px;">
+    <span style="margin: auto;">React Js</span>
+</p>
+<p style="display: flex; flex-flow: column; justify-content:center; width: max-content;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="Next.js" style="filter: grayscale(100%); margin: 10px; border-radius: 50%; object-fit: contain; height: 50px;">
+    <span style="margin: auto;">Next Js</span>
+</p>
+<p style="display: flex; flex-flow: column; justify-content:center; width: max-content;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="Node.js" style="filter: grayscale(100%); margin: 10px; border-radius: 50%; object-fit: contain; height: 50px;">
+    <span style="margin: auto;">Node Js</span>
+</p>
+
+<h3 style="font-size: 24px; color: #BBB">I'm currently learning:</h3>
+
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="50" width="50" alt="React.js" style="filter: grayscale(100%);">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="Node.js" style="filter: grayscale(100%);">
 </p>
-<h3 align="center" style="font-size: 30px; color: #777">My current skills:</h3>
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="30" width="30" alt="C">
 </p>
